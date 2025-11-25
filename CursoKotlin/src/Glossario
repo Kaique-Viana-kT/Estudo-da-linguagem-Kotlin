@@ -1,0 +1,48 @@
+* GLOSSARIO: var, val, fun, class, Double, String, Int, true, false,
+  if, else, else if, null, constructor, private, init, companion object
+  cost, object, inner class, when, data class, pair, triple, open, protected
+  override, open, abstract, super
+
+
+* OPERADORES: +, -, /, *, !, <, <=, >, >=, !, !=, ?:, ||, &&
+
+* TIPOS: int, double, string, float, byte, short, long, boolean
+
+* FUNÇÕES = blocos de codigos reutilizaveis, ela pode ter ou não ter retorno,
+  pode ou não ter parametroa, sobrecarga, parametros nomeados, escopo de funções.
+
+* OOP/ORIENTAÇÃO A OBJETOS/ORIENTED OBJECT PROGRAMMING:
+  tratar tudo como um objeto no mundo computacional: Carros, Animais, RG, Campo de texto,
+  Banco de dados etc.
+
+- Molde - template/forma para criar seus objetos vivos
+- Class/Molde - é respossavel por criar N objetos (que possuem propriedades/comportamentos)
+- Propriedades - moldes precisam de propriedades, caracteristicas daquele molde
+- Objeto - é a instancia (a criação) a partir daquele molde
+- Uma vez modificado o molde, TODOS os objetos vão receber atualização
+
+- uma classe serve como um molde ou plano de construção, especificando atributos
+  (propriedades) e métodos (funções) que os objetos desse tipo terão.
+
+- uma classe é uma abstração de um conceito do mundo real.
+
+- Um objeto é uma instância de uma classe, ou seja, uma representação
+  concreta da classe em uso. Quando criamos um objeto a partir de uma classe,
+  ele adquire os atributos e comportamentos definidos pela classe.
+
+- Sobrecarga de construtor, mesmo que função
+
+- Comportamento - Verbo - Ações
+
+- Classe -> é o molde para criar N objetos
+- Objetos -> é o conjunto de propriedades e comportamentos de um contexto
+  de um sistema (Button, LoginScreen)
+- Object -> é um obejto também, só que ele é unico, ou seja, não é igual
+  a classe que sai vario objetos (exemplo: Banco de Dados, Sessão de Usuario
+
+* TIPOS DE CLASSES
+- 1.Classes Aninhadas
+- 2.Classes Internas (Inner Class - acesso as propriedades da classe relacionada
+- 3.Classes Enumeradas
+- 4.Classe
+- 5.Data class
